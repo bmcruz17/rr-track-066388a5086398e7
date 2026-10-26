@@ -1,0 +1,21 @@
+{
+  "client": "Aztec Builders HI",
+  "greeting": "Aloha Daniel",
+  "updated": "Mon Oct 26, 2026, 8:40 AM HST",
+  "headline": "Your website is almost ready",
+  "message": "Your site is built and live at aztecbuildershi.com. Six steps are done. The rest are small things we are finishing or waiting on. I update this page at every step.",
+  "phone": "(808) 265-5339",
+  "phoneTel": "+18082655339",
+  "stages": [
+    {"id":"pages","title":"Page build","state":"done","badge":"Done","note":"Your website has six pages: Home, Services, About, Service Area, Questions, and Free Estimate."},
+    {"id":"domain","title":"Domain","state":"done","badge":"Done","note":"Your web address is aztecbuildershi.com."},
+    {"id":"logo","title":"Logo","state":"done","badge":"Done","note":"Your logo is on the site."},
+    {"id":"photos","title":"Photos","state":"done","badge":"Done","note":"About nine photos of your work are on the site."},
+    {"id":"hosting","title":"Hosting","state":"done","badge":"Done","note":"Your site is hosted and running."},
+    {"id":"seo","title":"Local SEO basics","state":"done","badge":"Done","note":"Page titles, descriptions and business details are set up so search engines can understand what you do and where you work."},
+    {"id":"estimate","title":"Free estimate request form","state":"active","badge":"In progress","note":"We are finishing the form so customers can ask you for a free estimate and the request reaches you."},
+    {"id":"google","title":"Google visibility","state":"waiting","badge":"Waiting","note":"Waiting on the license check below. Until it is finished, the site is set to stay hidden from Google on purpose. Once that is settled, we set up your Google Business Profile and open the site to search. We cannot promise any ranking or number of visitors."},
+    {"id":"email","title":"Business email","state":"waiting","badge":"Waiting on you","note":"Your own address like you@aztecbuildershi.com, through Google Workspace. Setup is $75 one time, then $8.40 a month. We also add the settings that keep your email out of spam and stop others from pretending to be you. Waiting on your \"yes\" and on access to your Cloudflare account to finish it."},
+    {"id":"license","title":"Contractor license check","state":"waiting","badge":"Needs your help","note":"We looked up the license number on the state site and couldn't find a match. Please text me your exact business name and license number so we can finish the check."}
+  ]
+}
